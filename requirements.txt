@@ -1,7 +1,7 @@
 Bootstrap-Flask==1.4
 Click==7.0
 Flask==2.3.2
-gunicorn==19.9.0
+gunicorn==22.0.0
 itsdangerous==1.1.0
 Jinja2==2.11.3
 MarkupSafe==1.1.1
